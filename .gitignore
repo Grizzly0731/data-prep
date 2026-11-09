@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/mnist_train.csv
+data/mnist_test.csv
+data/mnist_raw/
+data/boston_raw/
+data/titanic_raw/
